@@ -37,3 +37,10 @@ button:hover {
   background-color: navy;
   color: white;
 }
+img {
+  border-radius: 8px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
