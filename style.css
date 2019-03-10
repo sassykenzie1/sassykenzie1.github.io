@@ -1,6 +1,6 @@
 body {
 	font-size: 16pt;
-	color: black;
+	color: navy;
 	background-color: silver;
 	font-family: Allura, Calibri, Helvetica, Arial
 }
@@ -10,12 +10,12 @@ h1 {
 	text-align: center;
 }
 h2 {
-	color: white;
+	color: navy;
 	background-color: silver;
 	text-align: center;
 }
 h3 {
-  color: white;
+  color: navy;
   background-color: silver;
   text-align: center
 }
