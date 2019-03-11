@@ -25,7 +25,7 @@ h3 {
   text-align: center
 }
 button {
-  background-color: white;
+  background-color: #FFB6AF;
   border: none;
   color: black;
   font-family: Allura, Calibri, Helvetica, Arial;
@@ -39,7 +39,7 @@ button {
   transition-duration: 0.4s;
 }
 button:hover {
-  background-color: #FFB6AF;
+  background-color: white;
   color: black;
 }
 img {
