@@ -39,7 +39,7 @@ button {
   transition-duration: 0.4s;
 }
 button:hover {
-  background-color: #EFB1C8;
+  background-color: white;
   color: black;
 }
 img {
