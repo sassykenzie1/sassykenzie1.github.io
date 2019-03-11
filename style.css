@@ -1,28 +1,28 @@
 body {
 	font-size: 16pt;
-	color: white;
+	color: black;
 	background-color: #FFB6AF;
 	font-family: Allura, Calibri, Helvetica, Arial
 }
 h1 {
-	color: white;
+	color: black;
 	background-color: #FFB6AF;
 	text-align: center;
 }
 h2 {
-	color: white;
+	color: black;
 	background-color: #FFB6AF;
 	text-align: center;
 }
 h3 {
-  color: white;
+  color: black;
   background-color: #FFB6AF;
   text-align: center
 }
 button {
   background-color: #FFB6AF;
   border: none;
-  color: white;
+  color: black;
   font-family: Allura, Calibri, Helvetica, Arial;
   padding: 15px 32px;
   text-align: center;
@@ -35,7 +35,7 @@ button {
 }
 button:hover {
   background-color: #FBF2ED;
-  color: white;
+  color: black;
 }
 img {
   border-radius: 20px;
