@@ -1,5 +1,5 @@
 var quotes= [
-  'Agoraphilia', <img src= "Agoraphilia.jpg" alt=Agoraphilia></a>
+  'Agoraphilia',
   'Asphyxiation',
   'Autoerotic Asphyxiation',
   'Autagonistophilia',
