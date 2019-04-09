@@ -34,6 +34,11 @@ ol {
 	background-color: #FFB6AF;
 	text-align: center
 }
+li {
+	color: black;
+	background-color: #FFB6AF;
+	text-align: center
+}
 button {
   background-color: #FFB6AF;
   border: none;
