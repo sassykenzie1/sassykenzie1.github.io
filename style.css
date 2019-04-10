@@ -69,6 +69,7 @@ table {
 	width: 400px;
 	margin: 0; padding: 0;
 	border-collapse: collapse;
+	align-items: center;
 }
 td {
 	border: 1px solid #CC3;
@@ -76,3 +77,4 @@ td {
 	height: 100px;
 	width: 100px;
 	margin: 0; padding: 0;
+}
