@@ -69,5 +69,6 @@ table {
 	padding-left: 100px;
 }
 object {
-	align: center;
+	padding-right: 100px;
+	padding-left: 100px;
 }
