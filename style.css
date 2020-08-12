@@ -115,7 +115,7 @@ table {
 
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: #333;
+  background-color: #FFB6AF;
   overflow: hidden;
 }
 
@@ -138,7 +138,7 @@ table {
 
 /* Add an active class to highlight the current page */
 .topnav a.active {
-  background-color: #4CAF50;
+  background-color: black;
   color: white;
 }
 
