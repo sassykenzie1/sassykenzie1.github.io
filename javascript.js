@@ -1,5 +1,5 @@
 var quotes= [
-  'Agoraphilia',
+  'Agoraphilia <a href="https://www.definition-of.com/agoraphilia">',
   'Asphyxiation',
   'Autoerotic Asphyxiation',
   'Autagonistophilia',
