@@ -44,6 +44,12 @@ li {
 	background-color: #FFB6AF;
 	text-align: center
 }
+a:link {
+	color: #9A3671
+}
+a:visited {
+	color: #49225C
+}
 button {
   background-color: #FFB6AF;
   border: none;
