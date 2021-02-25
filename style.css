@@ -55,14 +55,12 @@ button {
   border: none;
   color: black;
   font-family: Arial;
-  padding: 15px 32px;
+  padding: 32px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 20px;
-	width: 40%;
-	margin-left: 30%;
-	margin-right: 30%
+	width: 50%;
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;
 }
