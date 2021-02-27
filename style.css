@@ -62,7 +62,7 @@ button {
   text-decoration: none;
   display: inline-block;
   font-size: 20px;
-	width: 50%;
+	width: 100%;
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;
 }
