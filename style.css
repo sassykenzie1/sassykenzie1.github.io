@@ -78,6 +78,9 @@ img {
 	max-width: 50%;
 	max-height: 50%;
 }
+.button-center {
+	text-align: center;
+}
 
 /* The sidebar menu */
 .sidenav {
