@@ -81,15 +81,6 @@ img {
 table {
 	border-collapse: collapse;
 	border: 1px solid black;
-}
-th,
-td {
-	border: 1px solid black;
-}
-table#table1 {
-	table-layout: auto;
-	width: 200px;
-}
 /* Equal width table cell */
 table#table2 {
 	table-layout: fixed;
