@@ -78,19 +78,6 @@ img {
 	max-width: 50%;
 	max-height: 50%;
 }
-table {
-	border-collapse: collapse;
-	border: 1px solid black;
-/* Equal width table cell */
-table#table2 {
-	table-layout: fixed;
-	width: 200px;
-}
-div {
-	max-width: 200px;
-	padding: 10px;
-	border: 1px solid black;
-}
 
 /* The sidebar menu */
 .sidenav {
